@@ -1,6 +1,6 @@
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: '#F59E0B',
+        backgroundColor: '#FFF',
         flex: 1
     },
     title: {
@@ -8,14 +8,14 @@ const styles = StyleSheet.create({
         fontWeight: '600',
         textAlign: 'center',
         marginTop: 30,
-        color: '#FFF'
+        color: '#3E00FF'
     },
     titleBold: {
         fontWeight: '900'
     },
     btnClose: {
         marginVertical: 30,
-        backgroundColor: '#E06900',
+        backgroundColor: '#CD113B',
         marginHorizontal: 30,
         padding: 15,
         borderRadius: 10,
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
         textTransform: 'uppercase',
     },
     content: {
-        backgroundColor: '#FFF',
+        backgroundColor: '#3E00FF',
         marginHorizontal: 30,
         borderRadius: 10,
         padding: 20,
@@ -46,13 +46,13 @@ const styles = StyleSheet.create({
     },
     label: {
         textTransform: 'uppercase',
-        color: '#374151',
+        color: '#FFF',
         fontWeight: '600',
         fontSize: 12
     },
     value: {
         fontWeight: '700',
         fontSize: 20,
-        color: '#334155'
+        color: '#FFF'
     }
 })
