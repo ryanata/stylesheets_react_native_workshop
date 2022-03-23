@@ -1,6 +1,6 @@
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#3E00FF',
+    backgroundColor: '#17D7A0',
     flex: 1
   },
   title: {
@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     color: '#6D28D9',
   },
   btnNewTask: {
-    backgroundColor: '#6D28D9',
+    backgroundColor: '#EA907A',
     padding: 15,
     marginTop: 30,
     marginHorizontal: 20,
@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     fontWeight: '600'
   },
   list: {
+    flex:1,
     marginTop: 50,
     marginHorizontal: 30
   }
