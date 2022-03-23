@@ -1,6 +1,6 @@
 const styles = StyleSheet.create({
     content: {
-        backgroundColor: '#6D28D9',
+        backgroundColor: '#3E00FF',
         flex: 1,
     },
     title: {
@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
     },
     btnCancel: {
         marginVertical: 30,
-        backgroundColor: '#5827A4',
+        backgroundColor: '#CD113B',
         marginHorizontal: 30,
         padding: 15,
         borderRadius: 10,
@@ -52,13 +52,13 @@ const styles = StyleSheet.create({
     },
     btnNewTask: {
         marginVertical: 50,
-        backgroundColor: '#F59E0B',
+        backgroundColor: '#EA907A',
         paddingVertical: 15,
         marginHorizontal: 30,
         borderRadius: 10
     },
     btnNewTaskText: {
-        color: '#5827A4',
+        color: '#FFF',
         textAlign: 'center',
         fontWeight: '900',
         fontSize: 16,
