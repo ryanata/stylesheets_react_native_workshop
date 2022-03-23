@@ -1,9 +1,11 @@
 const styles = StyleSheet.create({
     container: {
+        marginBottom: 20,
         backgroundColor: '#FFF',
         padding: 20,
         borderBottomColor: '#94a3B8',
-        borderBottomWidth: 1
+        borderBottomWidth: 1,
+        borderRadius: 30
     },
     label: {
         color: '#374151',
@@ -34,7 +36,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#F59E0B'
     },
     btnDelete: {
-        backgroundColor: '#EF4444'
+        backgroundColor: '#AC0D0D'
     },
     btnText: {
         textTransform: 'uppercase',
